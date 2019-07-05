@@ -1,0 +1,8 @@
+1：科幻
+2：动作
+3：搞笑
+4：恐怖
+5：爱情
+
+致谢:
+keyword_marry项目：https://github.com/Aplicity/keyword_marry
